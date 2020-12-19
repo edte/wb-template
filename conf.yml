@@ -1,0 +1,14 @@
+mysql:
+  name: ""
+  type: "mysql"
+  user: ""
+  password: ""
+  host: ""
+  port: "3306"
+
+redis:
+
+mq:
+
+log:
+  path: ""
